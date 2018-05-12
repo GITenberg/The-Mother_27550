@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9008
     wikipedia: http://en.wikipedia.org/wiki/Norman_Duncan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27550#The-Mother
 gutenberg_issued: '2008-12-17'
 gutenberg_type: Text
 identifiers:
